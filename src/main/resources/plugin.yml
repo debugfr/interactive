@@ -1,0 +1,9 @@
+name: InteractiveChat
+version: 1.0.0
+main: com.interactive.InteractiveChat
+description: Interactive chat plugin for viewing items, inventory, and enderchest
+authors: [debug]
+commands:
+  ichat:
+    description: View player's interactive content
+    usage: /ichat <player>
